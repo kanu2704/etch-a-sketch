@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin:2px;
+}
+.title{
+    margin:10px;
+}
+.reset{
+    width:50px;
+    margin: 20px;
+
+}
+.head1{
+    margin-bottom:20px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width:450px;
+    height:450px;
+}
+.outer{
+    display:flex;
+}
